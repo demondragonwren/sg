@@ -1,5 +1,7 @@
 # System Graphs: Visualizing Latent Structures and Phenomenological Experiences
 
+![Rust](https://github.com/demondragonwren/sg/actions/workflows/rust.yml/badge.svg)
+
 System Graphs is a visualization tool designed to help users explore and understand the latent structures and phenomenological experiences existing in their minds. By representing continuous cause-effect chains and relationships between different elements or phenomena, this application provides a unique perspective on how individuals conceptualize the world around them.
 
 ## Overview
