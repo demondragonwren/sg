@@ -16,4 +16,4 @@ In summary, the principles of cybernetic system analysis and the use of latent s
 
 ---
 
-*[1] “Systems theoretic techniques for modeling, control and decision support in complex Dynamic Systems,” Artificial Intelligence Resources in Control and Automation Engineering, pp. 15–72, Apr. 2012. doi:10.2174/978160805126711201010015*
+*[1] “Systems theoretic techniques for modeling, control and decision support in complex Dynamic Systems,” Artificial Intelligence Resources in Control and Automation Engineering, Apr. 2012. doi:10.2174/978160805126711201010015*
