@@ -14,4 +14,6 @@ The goal of this model, in practice, is to create the second order cybernetic co
 
 In summary, the principles of cybernetic system analysis and the use of latent spaces align well with the study of the brain's complex dynamics and the neural mechanisms underlying memory. The hierarchical, self-organizing nature of neural systems, coupled with computational modeling techniques, can help researchers uncover the latent spaces that encode and represent cognitive processes, experiences, and memories within our neurology.
 
-[1] “Systems theoretic techniques for modeling, control and decision support in complex Dynamic Systems,” Artificial Intelligence Resources in Control and Automation Engineering, pp. 15–72, Apr. 2012. doi:10.2174/978160805126711201010015 
+---
+
+*[1] “Systems theoretic techniques for modeling, control and decision support in complex Dynamic Systems,” Artificial Intelligence Resources in Control and Automation Engineering, pp. 15–72, Apr. 2012. doi:10.2174/978160805126711201010015*
